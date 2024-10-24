@@ -5,26 +5,26 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+B.S., Industrial Engineering, Hacettepe University, Turkey, 2020-2025.
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+Plan-S Satellite and Space Technologies, Business Development, 2024 April - Ongoing
 
-2.  Firm bbb, position yyy, year yyy
+INFINIA Engineering, Product Development, 2024 July - 2024 August
+
+QNB Finansbank, Online Internship
 
 # Projects
 
+TUBITAK UZAY - Space Logistics 
+
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, Matlab, Systems Tool Kit, SQL
 
 # Hobbies
+
+Playing violin, Swimming

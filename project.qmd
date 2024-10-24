@@ -3,10 +3,6 @@ title: "Our Course Project"
 sidebar: false 
 ---
 
-I'm honored to be a member of the \[group name\] project team.
+TUBITAK UZAY - Space Logistics 
 
-Below, you'll find a brief summary of our project. To access a detailed project description, please go to [https://\[your-project-url\]](#0){.uri}.
-
-**Summary**
-
-\[provide a biref summary of your project\]
+It is our graduation project for 2024-Fall and 2025-Spring as a team. We will be sharing more details. 
