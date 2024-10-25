@@ -4,6 +4,31 @@ title: "Assignment 1"
 
 # Assignment 1
 
+I have some questions about Cem Vardar.
+
+Question 1:
+
+In which positions did Cem Vardar work in companies such as Intel, Revionics and Carvana and what kind of projects did he work on in these companies? Explain how his work experiences in these companies differ in terms of industrial engineering and data science.
+
+Answer:
+
+At Intel, Cem Vardar worked mostly on industrial engineering based supply chain and inventory planning optimization. At Revionics, he focused on data science and big data analytics, developing demand modeling and price optimization algorithms. At Carvana, he led broader projects such as logistics optimization and decision support systems, using data science to create strategic solutions to operational problems. These experiences vary from industrial engineering-oriented assignments to data science-integrated and divergent ones.
+
+Question 2:
+
+Which optimisation problem is Cem Vardar working on as part of his data science projects at Carvana?
+
+A) Speeding up car assembly lines
+B) Last mile delivery optimization and overbooking of delivery slots
+C) Creating internal project management software
+D) Building a customer feedback analysis tool
+
+Answer: B
+
+
+
+
+
 ```{r}
 1 + 1
 ```

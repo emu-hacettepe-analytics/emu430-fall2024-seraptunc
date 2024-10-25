@@ -5,7 +5,10 @@ sidebar: false
 
 Hello! My name is Serap Tunç.
 
-This is my personal webpage.
+My other experiences detailed on my resume. 
 
-Please stay tuned to follow my works on data analytics, blog posts, and more.
+Welcome to my website, where I’ll be sharing my work and projects related to space industry. 
+
+Stay tuned for insights into my latest efforts and developments in the field!
+
 
