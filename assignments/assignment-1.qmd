@@ -2,9 +2,9 @@
 title: "Assignment 1"
 ---
 
-# Assignment 1
 
-I have some questions about Cem Vardar.
+
+I have two questions about Cem Vardar.
 
 Question 1:
 
@@ -30,11 +30,45 @@ Answer: B
 
 
 ```{r}
-1 + 1
+library(dslabs)
+```{r}
+data("polls_us_election_2016")
+
+
+```{r}
+knitr::kable(head(polls_us_election_2016, 10))
 ```
 
-My first assignment has two parts.
+```{r}
+total_na <- sum(is.na(polls_us_election_2016))
+total_na
+```
 
-## (a)
+```{r}
+birth_year <- 2002
+first_name <- "Serap"
 
-## (b)
+polls_modified <- polls_us_election_2016
+
+polls_modified[sapply(polls_modified, is.numeric)] <- 
+  lapply(polls_modified[sapply(polls_modified, is.numeric)], function(x) {
+    replace(x, is.na(x), birth_year)
+  })
+
+
+polls_modified[sapply(polls_modified, is.factor)] <- 
+  lapply(polls_modified[sapply(polls_modified, is.factor)], as.character)
+
+polls_modified[sapply(polls_modified, is.character)] <- 
+  lapply(polls_modified[sapply(polls_modified, is.character)], function(x) {
+    replace(x, is.na(x), first_name)
+  })
+
+
+knitr::kable(head(polls_modified, 10))
+
+
+total_na_modified <- sum(is.na(polls_modified))
+total_na_modified
+
+```

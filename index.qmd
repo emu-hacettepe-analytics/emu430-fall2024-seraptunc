@@ -1,14 +1,19 @@
 ---
-title: "Welcome to My Analytics Lab"
+title:  " <span style='color: white;'>Welcome to Personel Lab</span>"
+
 sidebar: false 
 ---
+  <strong style="color: white; font-size: 24px;"> 
 
 Hello! My name is Serap Tunç.
-99999
+
 My other experiences detailed on my resume. 
 
 Welcome to my website, where I’ll be sharing my work and projects related to space industry. 
 
 Stay tuned for insights into my latest efforts and developments in the field!
+  </strong>
 
 
+<center>
+<iframe src="https://giphy.com/embed/l0NwC1UnHzAHfC50c" width="480" height="319" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/warnerarchive-warner-archive-hanna-barbera-secret-squirrel-l0NwC1UnHzAHfC50c">via GIPHY</a></p></center>

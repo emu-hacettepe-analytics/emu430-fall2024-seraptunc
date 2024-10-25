@@ -28,3 +28,6 @@ R, Quarto, Git, Python, Matlab, Systems Tool Kit, SQL
 # Hobbies
 
 Playing violin, Swimming
+
+
+[Download my CV](cv.pdf)

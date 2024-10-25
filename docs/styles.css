@@ -1,1 +1,7 @@
 /* css styles */
+body {
+    background-color: #432052; /* Arka plan rengini belirler (mavi örneği) */
+    color: white; /* Sayfadaki metin rengini beyaz yapar */
+    font-family: Arial, sans-serif; /* Yazı tipini ayarlar */
+  }
+  
