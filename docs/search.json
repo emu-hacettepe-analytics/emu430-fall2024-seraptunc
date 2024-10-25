@@ -1,0 +1,67 @@
+[
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "My Assignments",
+    "section": "",
+    "text": "On this page, I showcase the assignment I conducted for the Fall 2024 - EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 10, 2024\n\n\n\n Back to top",
+    "crumbs": [
+      "My Assignments"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html",
+    "href": "assignments/assignment-1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "I have some questions about Cem Vardar.\nQuestion 1:\nIn which positions did Cem Vardar work in companies such as Intel, Revionics and Carvana and what kind of projects did he work on in these companies? Explain how his work experiences in these companies differ in terms of industrial engineering and data science.\nAnswer:\nAt Intel, Cem Vardar worked mostly on industrial engineering based supply chain and inventory planning optimization. At Revionics, he focused on data science and big data analytics, developing demand modeling and price optimization algorithms. At Carvana, he led broader projects such as logistics optimization and decision support systems, using data science to create strategic solutions to operational problems. These experiences vary from industrial engineering-oriented assignments to data science-integrated and divergent ones.\nQuestion 2:\nWhich optimisation problem is Cem Vardar working on as part of his data science projects at Carvana?\n\nSpeeding up car assembly lines\nLast mile delivery optimization and overbooking of delivery slots\nCreating internal project management software\nBuilding a customer feedback analysis tool\n\nAnswer: B\n\n1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 2020-2025."
+  },
+  {
+    "objectID": "about.html#internships",
+    "href": "about.html#internships",
+    "title": "About Me",
+    "section": "Internships",
+    "text": "Internships\nPlan-S Satellite and Space Technologies, Business Development, 2024 April - Ongoing\nINFINIA Engineering, Product Development, 2024 July - 2024 August\nQNB Finansbank, Online Internship"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Analytics Lab",
+    "section": "",
+    "text": "Hello! My name is Serap Tunç. 99999 My other experiences detailed on my resume.\nWelcome to my website, where I’ll be sharing my work and projects related to space industry.\nStay tuned for insights into my latest efforts and developments in the field!\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Our Course Project",
+    "section": "",
+    "text": "TUBITAK UZAY - Space Logistics\nIt is our graduation project for 2024-Fall and 2025-Spring as a team. We will be sharing more details.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/assignment-2.html",
+    "href": "assignments/assignment-2.html",
+    "title": "Assignment 2",
+    "section": "",
+    "text": "Assignment 2\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Assignment 2"
+    ]
+  }
+]
